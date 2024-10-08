@@ -1,4 +1,4 @@
-class computer 
+public class computer 
 {
     public void playMusic()
     {
