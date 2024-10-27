@@ -33,4 +33,4 @@ public class multidim
         }
             System.out.println();
     }
-}
+
